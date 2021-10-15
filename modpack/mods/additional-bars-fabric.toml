@@ -1,0 +1,13 @@
+name = "Additional Bars [FABRIC]"
+filename = "1.17.1-additionalbars-2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3380/193/1.17.1-additionalbars-2.1.1.jar"
+hash-format = "murmur2"
+hash = "3577352799"
+
+[update]
+[update.curseforge]
+file-id = 3380193
+project-id = 431823

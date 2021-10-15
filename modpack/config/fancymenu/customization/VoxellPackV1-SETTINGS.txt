@@ -1,0 +1,30 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_429
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = bottom-right
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  x = -55
+  width = 50
+  actionid = 49bddf61-5ba0-4f00-a6a6-014a4df3525c1634154873438
+  action = addbutton
+  y = -24
+  label = Website
+  value = https://voxell.net
+  height = 20
+}
+

@@ -1,0 +1,3 @@
+identifier = about_voxell_gui
+title = About Voxell
+allowesc = true

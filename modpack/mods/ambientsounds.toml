@@ -1,0 +1,13 @@
+name = "AmbientSounds 4"
+filename = "AmbientSounds_v4.0.2_mc1.17.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3483/883/AmbientSounds_v4.0.2_mc1.17.1.jar"
+hash-format = "murmur2"
+hash = "346382844"
+
+[update]
+[update.curseforge]
+file-id = 3483883
+project-id = 254284

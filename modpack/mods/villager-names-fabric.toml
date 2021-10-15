@@ -1,0 +1,13 @@
+name = "Villager Names (Fabric)"
+filename = "villagernames-1.17.1-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3452/403/villagernames-1.17.1-2.0.0.jar"
+hash-format = "murmur2"
+hash = "3028737608"
+
+[update]
+[update.curseforge]
+file-id = 3452403
+project-id = 416379

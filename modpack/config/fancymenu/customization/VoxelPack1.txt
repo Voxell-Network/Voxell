@@ -1,0 +1,198 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=400310%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 20
+}
+
+customization {
+  identifier = %id=400310%
+  seconds = 0.4
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 2.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=400358%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 44
+}
+
+customization {
+  identifier = %id=400358%
+  width = 98
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400358%
+  seconds = 0.6
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 2.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=400286%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -4
+}
+
+customization {
+  identifier = %id=400286%
+  seconds = 0.2
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 2.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=400334%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400334%
+  seconds = 0.4
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 2.0
+  action = hidebuttonfor
+}
+
+customization {
+  orientation = bottom-left
+  shadow = false
+  x = 3
+  actionid = 71d4149d-6401-4222-898b-295f41ed5f251634135239504
+  action = addtext
+  y = -11
+  scale = 1.0
+  alignment = left
+  value = Voxel Pack V1 (vp103)
+}
+
+customization {
+  path = mods/voxell_t.png
+  orientation = top-centered
+  x = -43
+  width = 86
+  action = addtexture
+  actionid = ed2ecf06-e143-4977-b949-1e995aa6c6971634136368876
+  y = 4
+  height = 84
+}
+
+customization {
+  orientation = top-centered
+  shadow = false
+  x = 0
+  actionid = 5c672c48-4569-4e6c-941b-bcb23119e1ed1634136802411
+  action = addtext
+  y = 79
+  scale = 1.0
+  alignment = centered
+  value = Server %serverstatus:51.140.143.218%
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  delayappearanceseconds = 0.6
+  buttonaction = opencustomgui
+  label = About Modpack
+  loopbackgroundanimations = true
+  fadein = true
+  fadeinspeed = 2.0
+  x = 2
+  width = 98
+  actionid = a439a67d-fb26-4272-a361-fe1f55137e351634138571365
+  action = addbutton
+  y = 44
+  delayappearance = true
+  value = about_voxell_gui
+  delayappearanceeverytime = false
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  delayappearanceseconds = 0.0
+  buttonaction = joinserver
+  label = Join Voxell SMP
+  loopbackgroundanimations = true
+  fadein = true
+  fadeinspeed = 2.0
+  x = -100
+  width = 200
+  actionid = 44811ceb-1e1b-4ec6-bad8-0f86144a6ba71634138712396
+  action = addbutton
+  y = -28
+  delayappearance = true
+  value = play.voxell.net
+  delayappearanceeverytime = false
+  height = 20
+}
+
+customization {
+  identifier = %id=604394%
+  seconds = 0.8
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 2.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=400394%
+  seconds = 0.8
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 2.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=502394%
+  seconds = 0.8
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 2.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=376394%
+  seconds = 0.8
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 2.0
+  action = hidebuttonfor
+}
+

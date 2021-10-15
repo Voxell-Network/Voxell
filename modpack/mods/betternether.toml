@@ -1,0 +1,13 @@
+name = "BetterNether"
+filename = "better-nether-5.1.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3379/682/better-nether-5.1.3.jar"
+hash-format = "murmur2"
+hash = "1744536394"
+
+[update]
+[update.curseforge]
+file-id = 3379682
+project-id = 311377
