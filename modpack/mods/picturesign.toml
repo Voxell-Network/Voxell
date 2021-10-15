@@ -1,0 +1,13 @@
+name = "PictureSign"
+filename = "picturesign-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3481/307/picturesign-1.1.0.jar"
+hash-format = "murmur2"
+hash = "3402552600"
+
+[update]
+[update.curseforge]
+file-id = 3481307
+project-id = 533897

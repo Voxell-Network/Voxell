@@ -1,0 +1,3 @@
+identifier = modpack_credits_gui
+title = Modpack Credits
+allowesc = true

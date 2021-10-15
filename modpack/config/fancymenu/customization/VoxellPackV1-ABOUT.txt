@@ -1,0 +1,110 @@
+type = menu
+
+customization-meta {
+  identifier = client_about_gui
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = opengui
+  x = 4
+  width = 41
+  actionid = ecf36327-c526-4c53-be97-2cd55c78a56e1634139765849
+  action = addbutton
+  y = 9
+  label = Back
+  value = net.minecraft.class_442
+  height = 20
+}
+
+customization {
+  path = mods/voxell_t.png
+  orientation = top-left
+  x = 4
+  width = 100
+  action = addtexture
+  actionid = 325fd2b3-528e-402b-968b-38c2368f07651634155276391
+  y = 29
+  height = 100
+}
+
+customization {
+  orientation = top-left
+  shadow = false
+  x = 99
+  actionid = 94aeaa05-6c9e-42b3-a7d8-272063d31ca91634155305395
+  action = addtext
+  y = 53
+  scale = 2.0
+  alignment = left
+  value = Voxell UI
+}
+
+customization {
+  orientation = top-left
+  shadow = false
+  x = 98
+  actionid = 1bee138c-6151-41b4-a3e6-7e62e21adbc51634155343220
+  action = addtext
+  y = 71
+  scale = 1.0
+  alignment = left
+  value = Designed by Turtleboi#2500
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  x = 98
+  width = 52
+  actionid = 4f41d638-c853-43e6-bbd8-0ac8ccceadab1634155401427
+  action = addbutton
+  y = 88
+  label = Website
+  value = https://voxell.net
+  height = 20
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  x = 154
+  width = 52
+  actionid = 4f41d638-c853-43e6-bbd8-0ac8ccceadab1634155401427
+  action = addbutton
+  y = 88
+  label = GitHub
+  value = https://github.com/Voxell-Network
+  height = 20
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  x = 210
+  width = 52
+  actionid = 4f41d638-c853-43e6-bbd8-0ac8ccceadab1634155401427
+  action = addbutton
+  y = 88
+  label = Discord
+  value = https://discord.gg/C6KYjDAge7
+  height = 20
+}
+

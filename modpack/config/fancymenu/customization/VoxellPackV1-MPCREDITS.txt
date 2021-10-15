@@ -1,0 +1,160 @@
+type = menu
+
+customization-meta {
+  identifier = modpack_credits_gui
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  shadow = false
+  delayappearanceseconds = 0.5
+  scale = 0.375
+  url = https://gist.githubusercontent.com/vihangatheturtle/ee9b854b01f85963b1fb35b85030fe18/raw
+  fadein = true
+  fadeinspeed = 5.0
+  multiline = true
+  x = 123
+  actionid = 3360b25e-19e8-435d-a1ac-51bd43024e241634139612934
+  action = addwebtext
+  y = 37
+  delayappearance = true
+  alignment = centered
+  delayappearanceeverytime = true
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = opengui
+  x = 5
+  width = 41
+  actionid = ecf36327-c526-4c53-be97-2cd55c78a56e1634139765849
+  action = addbutton
+  y = 6
+  label = Back
+  value = net.minecraft.class_442
+  height = 20
+}
+
+customization {
+  orientation = top-centered
+  shadow = false
+  delayappearanceseconds = 0.5
+  scale = 0.46
+  url = https://gist.githubusercontent.com/vihangatheturtle/77c6b98a5a7ec25be97bbfba37cc2563/raw
+  fadein = true
+  fadeinspeed = 5.0
+  multiline = true
+  x = 93
+  actionid = c7a7a3c5-e77e-425e-b83e-98225b1d0e0a1634142751991
+  action = addwebtext
+  y = 37
+  delayappearance = true
+  alignment = centered
+  delayappearanceeverytime = true
+}
+
+customization {
+  orientation = top-centered
+  shadow = false
+  delayappearanceseconds = 0.5
+  scale = 0.46
+  url = https://gist.githubusercontent.com/vihangatheturtle/5e5aebdac5422762953c25def05fae87/raw
+  fadein = true
+  fadeinspeed = 5.0
+  multiline = true
+  x = 93
+  actionid = 6358ce0f-2aac-41a8-afd8-a3904c26e6461634156349706
+  action = addwebtext
+  y = 94
+  delayappearance = true
+  alignment = centered
+  delayappearanceeverytime = true
+}
+
+customization {
+  orientation = top-centered
+  delayappearanceseconds = 0.5
+  path = mods/voxell_t.png
+  fadein = true
+  fadeinspeed = 5.0
+  x = 44
+  width = 100
+  action = addtexture
+  actionid = 9c4f1fa3-f31f-43dc-9010-9871927895db1634156496286
+  y = 137
+  delayappearance = true
+  delayappearanceeverytime = true
+  height = 100
+}
+
+customization {
+  orientation = top-centered
+  restartbackgroundanimations = true
+  delayappearanceseconds = 0.5
+  buttonaction = openlink
+  label = View Mods
+  loopbackgroundanimations = true
+  fadein = true
+  fadeinspeed = 5.0
+  x = -1
+  width = 61
+  actionid = 05367c75-774b-469e-bd9c-55ffbcca5a661634157283783
+  action = addbutton
+  y = 237
+  delayappearance = true
+  value = https://gist.github.com/vihangatheturtle/ee9b854b01f85963b1fb35b85030fe18
+  delayappearanceeverytime = true
+  height = 20
+}
+
+customization {
+  orientation = top-centered
+  restartbackgroundanimations = true
+  delayappearanceseconds = 0.5
+  buttonaction = openlink
+  label = View Team
+  loopbackgroundanimations = true
+  fadein = true
+  fadeinspeed = 5.0
+  x = 64
+  width = 62
+  actionid = 05367c75-774b-469e-bd9c-55ffbcca5a661634157283783
+  action = addbutton
+  y = 237
+  delayappearance = true
+  value = https://gist.github.com/vihangatheturtle/77c6b98a5a7ec25be97bbfba37cc2563
+  delayappearanceeverytime = true
+  height = 20
+}
+
+customization {
+  orientation = top-centered
+  restartbackgroundanimations = true
+  delayappearanceseconds = 0.5
+  buttonaction = openlink
+  label = View Design
+  loopbackgroundanimations = true
+  fadein = true
+  fadeinspeed = 5.0
+  x = 130
+  width = 61
+  actionid = 05367c75-774b-469e-bd9c-55ffbcca5a661634157283783
+  action = addbutton
+  y = 237
+  delayappearance = true
+  value = https://gist.github.com/vihangatheturtle/5e5aebdac5422762953c25def05fae87
+  delayappearanceeverytime = true
+  height = 20
+}
+

@@ -1,0 +1,16 @@
+name = "Voxell Pack"
+author = "Voxell Team"
+version = "vp104"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "47589f25f19f95ead58b2ace8a967bfc4b18ee0ec706c94edd1e9a1d66c89969"
+
+[versions]
+fabric = "0.12.1"
+minecraft = "1.17.1"
+
+[options]
+acceptable-game-versions = ["1.17", "1.17.1"]

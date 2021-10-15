@@ -1,0 +1,13 @@
+name = "SnapStone"
+filename = "SnapStone-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3431/857/SnapStone-1.0.1.jar"
+hash-format = "murmur2"
+hash = "2923478206"
+
+[update]
+[update.curseforge]
+file-id = 3431857
+project-id = 517836

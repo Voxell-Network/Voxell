@@ -1,0 +1,83 @@
+type = hud
+
+customization-meta {
+  renderorder = foreground
+  backgroundcolor = #121212
+}
+
+customization {
+  visible = false
+  x = 65
+  action = editlogo
+  y = -45
+}
+
+customization {
+  visible = false
+  x = -53
+  action = editprogressbar
+  y = -41
+}
+
+customization {
+  path = mods/voxell_t.png
+  orientation = top-left
+  x = 0
+  width = 92
+  action = addtexture
+  actionid = 7e736d46-2d7e-45ce-b5e2-84c57de1649d1633905271692
+  y = 5
+  height = 88
+}
+
+customization {
+  orientation = top-left
+  x = 0
+  width = %guiwidth%
+  y = -1
+  action = addcustomprogressbar
+  height = 6
+  direction = right
+  barcolor = #FF7F50
+  backgroundcolor = #5c5c5c80
+}
+
+customization {
+  orientation = top-left
+  shadow = false
+  x = 11
+  textcolor = #ffffff
+  action = addtext
+  actionid = 7b14a0c6-dede-42aa-8f33-ce555fb1f3351633905351195
+  y = 93
+  scale = 2.0
+  alignment = left
+  value = Voxell Pack v1
+}
+
+customization {
+  orientation = top-left
+  shadow = false
+  x = 11
+  textcolor = #ffffff
+  action = addtext
+  actionid = f5bb8d4c-e1f3-4d86-b590-0611cef9e2311633905376924
+  y = 129
+  scale = 1.0
+  alignment = left
+  value = Modpack designed by the community
+}
+
+customization {
+  orientation = bottom-left
+  shadow = false
+  x = 12
+  textcolor = #ffffff
+  action = addtext
+  actionid = 4e7378fa-4cb0-46a8-9b5d-7bfb510d080e1634144301484
+  y = -11
+  scale = 0.7
+  alignment = left
+  value = Logged in as: %playername%
+}
+

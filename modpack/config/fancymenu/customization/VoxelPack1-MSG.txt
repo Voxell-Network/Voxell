@@ -1,0 +1,26 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_424
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  path = mods/voxell_t.png
+  orientation = bottom-centered
+  x = -37
+  width = 75
+  action = addtexture
+  actionid = 2fda54e3-f729-45d0-a575-8308b1d630aa1634135336924
+  y = -100
+  height = 75
+}
+

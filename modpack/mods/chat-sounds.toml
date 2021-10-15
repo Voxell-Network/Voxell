@@ -1,0 +1,13 @@
+name = "Chat Sounds"
+filename = "chatsounds-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3487/316/chatsounds-1.1.0.jar"
+hash-format = "murmur2"
+hash = "3836401633"
+
+[update]
+[update.curseforge]
+file-id = 3487316
+project-id = 459715
