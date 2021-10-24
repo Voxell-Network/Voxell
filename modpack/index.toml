@@ -441,6 +441,26 @@ file = "config/yosbr/options.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "kubejs/README.txt"
+hash = "801703f280e4ff26fb4be02067cb583a79f7618bc0966b11d55b80492fddb56b"
+
+[[files]]
+file = "kubejs/client_scripts/script.js"
+hash = "b5bb108fd8587752390cf337457428466e2127c2e482895adb2d84bdda53b4e6"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "8e396fc41742ad64a4c662e12f9ac22fde231b443a9aa3097c1b747d413d8807"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "efbbaf31c9cc56c66ede6a95fca5172bbbe5a1cb975bf83fa4957859a5744149"
+
+[[files]]
+file = "kubejs/startup_scripts/script.js"
+hash = "91ece1d3ad1f68c8fc258ea82ee733773faffcb71116ecb21f9e615c42c13567"
+
+[[files]]
 file = "mods/additional-bars-fabric.toml"
 hash = "95281dadb0051750829bc493a6465ed2f7b532fde6bd230815c4c80aa2e801c6"
 metafile = true
