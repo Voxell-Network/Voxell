@@ -579,8 +579,18 @@ hash = "973a01b315ac5c9363aaf88511155f0b39c9b211e9117abd7704dfbaaea95dab"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.toml"
+hash = "fef3ab258141464f42aa597ff8df82f5e7626b8fd7d0ba63a7ce8e8c60e61925"
+metafile = true
+
+[[files]]
 file = "mods/chat-sounds.toml"
 hash = "7c621441eab916a773972837979c272b9a1ff5b144a8a2b0c2ea0bdc0ea3efca"
+metafile = true
+
+[[files]]
+file = "mods/chat.toml"
+hash = "30248e4820d802ab57bad729db650c91740c8166e69af3a533945fb2a77a786b"
 metafile = true
 
 [[files]]
@@ -626,6 +636,11 @@ metafile = true
 [[files]]
 file = "mods/cooking-for-blockheads.toml"
 hash = "6895846b4bb0c2b1b4c441f81a7f3af5101173f7a7240a3f1dfca99e5653b0fe"
+metafile = true
+
+[[files]]
+file = "mods/craftpresence.toml"
+hash = "b5c17af44c07c4eb9f8f8eaf2ba47e1b94678a197317d6f2e092acc22539e2a9"
 metafile = true
 
 [[files]]
@@ -906,6 +921,11 @@ metafile = true
 [[files]]
 file = "mods/led.toml"
 hash = "5a67a3bbe2443e06bc05e338ea7d2f581d8a8528040458b7a0eefcf3dc1d2403"
+metafile = true
+
+[[files]]
+file = "mods/lib.toml"
+hash = "3c0f27f7f7418e88f78d9857e4204270ddd3fcad7d38f3d5905d1a3c5c271272"
 metafile = true
 
 [[files]]
