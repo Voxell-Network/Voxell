@@ -1,0 +1,13 @@
+name = "Sticky Hopper"
+filename = "stickyhopper-2.3-1.17.1-1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3491/7/stickyhopper-2.3-1.17.1-1.jar"
+hash-format = "murmur2"
+hash = "2013996900"
+
+[update]
+[update.curseforge]
+file-id = 3491007
+project-id = 492282

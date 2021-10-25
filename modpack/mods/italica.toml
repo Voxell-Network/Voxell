@@ -1,0 +1,13 @@
+name = "Italica"
+filename = "Italica v1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3501/861/Italica v1.jar"
+hash-format = "murmur2"
+hash = "986653922"
+
+[update]
+[update.curseforge]
+file-id = 3501861
+project-id = 539731

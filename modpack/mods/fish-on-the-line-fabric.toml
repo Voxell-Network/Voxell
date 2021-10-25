@@ -1,0 +1,13 @@
+name = "Fish On The Line (Fabric)"
+filename = "fishontheline-fabric_1.17.x-1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3468/297/fishontheline-fabric_1.17.x-1.2.jar"
+hash-format = "murmur2"
+hash = "4108793932"
+
+[update]
+[update.curseforge]
+file-id = 3468297
+project-id = 530391

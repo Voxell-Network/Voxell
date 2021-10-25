@@ -1,13 +1,13 @@
 name = "Space Dimensions (Fabric)"
-filename = "agape_space_17-0.3.2.jar"
+filename = "agape_space_17-0.3.3.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3477/839/agape_space_17-0.3.2.jar"
+url = "https://edge.forgecdn.net/files/3497/762/agape_space_17-0.3.3.jar"
 hash-format = "murmur2"
-hash = "2936672010"
+hash = "1767733192"
 
 [update]
 [update.curseforge]
-file-id = 3477839
+file-id = 3497762
 project-id = 429841

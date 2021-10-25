@@ -1,0 +1,13 @@
+name = "Workbench Factory"
+filename = "factory-fabric-1.17.1-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3387/369/factory-fabric-1.17.1-1.4.0.jar"
+hash-format = "murmur2"
+hash = "3248901685"
+
+[update]
+[update.curseforge]
+file-id = 3387369
+project-id = 386566

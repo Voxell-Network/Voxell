@@ -1,0 +1,13 @@
+name = "Experience Container [XP]"
+filename = "Experience-Container-1.15.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3363/74/Experience-Container-1.15.2.jar"
+hash-format = "murmur2"
+hash = "1874658858"
+
+[update]
+[update.curseforge]
+file-id = 3363074
+project-id = 327525

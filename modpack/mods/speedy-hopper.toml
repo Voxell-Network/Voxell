@@ -1,0 +1,13 @@
+name = "Speedy Hopper"
+filename = "speedyhopper-1.1-1.17.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3492/773/speedyhopper-1.1-1.17.1.jar"
+hash-format = "murmur2"
+hash = "214645126"
+
+[update]
+[update.curseforge]
+file-id = 3492773
+project-id = 496271

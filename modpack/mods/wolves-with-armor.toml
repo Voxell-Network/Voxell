@@ -1,0 +1,13 @@
+name = "Wolves With Armor"
+filename = "wolves-with-armor-1.6.1-1.17.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3452/509/wolves-with-armor-1.6.1-1.17.1.jar"
+hash-format = "murmur2"
+hash = "2792722294"
+
+[update]
+[update.curseforge]
+file-id = 3452509
+project-id = 375969

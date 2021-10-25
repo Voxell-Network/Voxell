@@ -1,0 +1,13 @@
+name = "Arcana++ [Fabric]"
+filename = "arcana-plus-plus-0.0.4+1.17-alpha.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3374/558/arcana-plus-plus-0.0.4+1.17-alpha.jar"
+hash-format = "murmur2"
+hash = "947996151"
+
+[update]
+[update.curseforge]
+file-id = 3374558
+project-id = 475810

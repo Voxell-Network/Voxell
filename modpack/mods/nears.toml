@@ -1,0 +1,13 @@
+name = "Nears [Fabric]"
+filename = "nears-1.17-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3418/476/nears-1.17-1.1.2.jar"
+hash-format = "murmur2"
+hash = "3562847476"
+
+[update]
+[update.curseforge]
+file-id = 3418476
+project-id = 482621

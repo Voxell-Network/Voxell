@@ -1,0 +1,13 @@
+name = "Holographic Renderers"
+filename = "holographic-renders-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3491/623/holographic-renders-1.0.2.jar"
+hash-format = "murmur2"
+hash = "3643358161"
+
+[update]
+[update.curseforge]
+file-id = 3491623
+project-id = 532110

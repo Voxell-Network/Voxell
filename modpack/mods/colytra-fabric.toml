@@ -1,0 +1,13 @@
+name = "Colytra (Fabric)"
+filename = "colytra-fabric-2.0.0-1.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3346/110/colytra-fabric-2.0.0-1.17.jar"
+hash-format = "murmur2"
+hash = "3602930250"
+
+[update]
+[update.curseforge]
+file-id = 3346110
+project-id = 398089

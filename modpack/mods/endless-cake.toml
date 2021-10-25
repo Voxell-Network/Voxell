@@ -1,0 +1,13 @@
+name = "Endless Cake"
+filename = "endless_cake-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3411/247/endless_cake-1.0.0.jar"
+hash-format = "murmur2"
+hash = "1612511095"
+
+[update]
+[update.curseforge]
+file-id = 3411247
+project-id = 510782

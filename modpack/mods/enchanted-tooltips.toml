@@ -1,0 +1,13 @@
+name = "Enchanted ToolTips"
+filename = "EnchantedToolTips-1.3.5-1.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3351/317/EnchantedToolTips-1.3.5-1.17.jar"
+hash-format = "murmur2"
+hash = "1439531856"
+
+[update]
+[update.curseforge]
+file-id = 3351317
+project-id = 331965

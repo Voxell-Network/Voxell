@@ -1,0 +1,13 @@
+name = "Simple Shelves"
+filename = "simple-shelves-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3460/606/simple-shelves-1.0.0.jar"
+hash-format = "murmur2"
+hash = "1802798484"
+
+[update]
+[update.curseforge]
+file-id = 3460606
+project-id = 527392

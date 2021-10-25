@@ -1,0 +1,13 @@
+name = "Teeny Coal"
+filename = "teenycoal-1.0.2-1.17.x.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3456/906/teenycoal-1.0.2-1.17.x.jar"
+hash-format = "murmur2"
+hash = "3776940718"
+
+[update]
+[update.curseforge]
+file-id = 3456906
+project-id = 510346

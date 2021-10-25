@@ -1,0 +1,13 @@
+name = "Vision Ring"
+filename = "visionring-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3356/103/visionring-1.0.0.jar"
+hash-format = "murmur2"
+hash = "645705252"
+
+[update]
+[update.curseforge]
+file-id = 3356103
+project-id = 495290

@@ -1,0 +1,13 @@
+name = "Obsidian Container [Experience Container Addon]"
+filename = "Obsidian-Container-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3355/446/Obsidian-Container-1.0.2.jar"
+hash-format = "murmur2"
+hash = "1322513195"
+
+[update]
+[update.curseforge]
+file-id = 3355446
+project-id = 478332

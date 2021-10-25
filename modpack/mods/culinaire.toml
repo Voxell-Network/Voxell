@@ -1,0 +1,13 @@
+name = "Culinaire"
+filename = "culinaire-2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3420/77/culinaire-2.1.1.jar"
+hash-format = "murmur2"
+hash = "1567862243"
+
+[update]
+[update.curseforge]
+file-id = 3420077
+project-id = 390675

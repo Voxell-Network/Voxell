@@ -94,7 +94,7 @@ customization {
   y = -11
   scale = 1.0
   alignment = left
-  value = Voxel Pack V1 (vp103)
+  value = Voxel Pack V1 (vp104)
 }
 
 customization {

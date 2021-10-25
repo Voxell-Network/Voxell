@@ -1,0 +1,13 @@
+name = "LibrarianLib"
+filename = "librarianlib-5.0.0-alpha.10.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3488/454/librarianlib-5.0.0-alpha.10.jar"
+hash-format = "murmur2"
+hash = "1396926483"
+
+[update]
+[update.curseforge]
+file-id = 3488454
+project-id = 252910

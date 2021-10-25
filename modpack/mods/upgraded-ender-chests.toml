@@ -1,0 +1,13 @@
+name = "Upgraded Ender Chests"
+filename = "upgradedechests-1.0.3-1.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3497/764/upgradedechests-1.0.3-1.17.jar"
+hash-format = "murmur2"
+hash = "1705537802"
+
+[update]
+[update.curseforge]
+file-id = 3497764
+project-id = 457082

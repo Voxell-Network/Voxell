@@ -14,7 +14,7 @@ reducedDebugInfo:false
 snooperEnabled:true
 showSubtitles:false
 touchscreen:false
-fullscreen:true
+fullscreen:false
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -108,17 +108,27 @@ key_key.dynamicfps.toggle_disabled:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.fabrishot.screenshot:key.keyboard.f9
 key_Reload Menu | CTRL + ALT + :key.keyboard.r
-key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.c
+key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.r
 key_key.wi_zoom.zoom:key.keyboard.c
 key_key.antighost.reveal:key.keyboard.g
-key_key.charm.openCraftingTable:CTRL + key.keyboard.v
+key_key.backslot.switch_backslot:key.keyboard.g
+key_key.backslot.switch_beltslot:key.keyboard.g
+key_key.charm.openCraftingTable:key.keyboard.v
+key_key.extraalchemy.magnetism_toggle:key.keyboard.n
+key_key.extraalchemy.potion_bag_mode:key.keyboard.k
+key_key.extraalchemy.toggle_extra_inv_rings:key.keyboard.y
+key_key.hwg.reload:key.keyboard.r
+key_key.hwg.scope:key.keyboard.left.alt
+key_key.indrev.modular:key.keyboard.unknown
 key_key.inmis.open_backpack:key.keyboard.b
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
-key_key.modern_industrialization.activate:key.keyboard.left.shift + key.keyboard.v
+key_key.modern_industrialization.activate:key.keyboard.v
 key_snapstone.snap.key:key.keyboard.h
+key_key.trade:key.keyboard.v
 key_key.push_to_talk:key.keyboard.caps.lock
+key_key.whisper:key.keyboard.unknown
 key_key.mute_microphone:key.keyboard.m
 key_key.disable_voice_chat:key.keyboard.n
 key_key.hide_icons:key.keyboard.h
@@ -146,6 +156,7 @@ key_gui.xaero_new_waypoint:key.keyboard.b
 key_gui.xaero_display_all_sets:key.keyboard.unknown
 key_gui.xaero_toggle_light_overlay:key.keyboard.unknown
 key_gui.xaero_toggle_entity_radar:key.keyboard.unknown
+key_gui.xaero_reverse_entity_radar:key.keyboard.unknown
 key_gui.xaero_minimap_settings:key.keyboard.y
 key_gui.xaero_open_map:key.keyboard.m
 key_gui.xaero_open_settings:key.keyboard.right.bracket
@@ -153,7 +164,7 @@ key_gui.xaero_map_zoom_in:key.keyboard.unknown
 key_gui.xaero_map_zoom_out:key.keyboard.unknown
 key_gui.xaero_quick_confirm:key.keyboard.right.shift
 soundCategory_master:1.0
-soundCategory_music:0.0
+soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0

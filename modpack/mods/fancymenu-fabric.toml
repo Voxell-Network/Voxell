@@ -1,13 +1,13 @@
 name = "FancyMenu [Fabric]"
-filename = "fancymenu_fabric_2.3.4_MC_1.17-1.17.1.jar"
+filename = "fancymenu_fabric_2.3.5_MC_1.17-1.17.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3488/773/fancymenu_fabric_2.3.4_MC_1.17-1.17.1.jar"
+url = "https://edge.forgecdn.net/files/3499/562/fancymenu_fabric_2.3.5_MC_1.17-1.17.1.jar"
 hash-format = "murmur2"
-hash = "924596814"
+hash = "3544518013"
 
 [update]
 [update.curseforge]
-file-id = 3488773
+file-id = 3499562
 project-id = 416796

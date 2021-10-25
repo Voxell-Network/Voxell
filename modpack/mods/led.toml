@@ -1,0 +1,13 @@
+name = "Light Emitting Diode"
+filename = "led-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3369/68/led-1.1.0.jar"
+hash-format = "murmur2"
+hash = "72349843"
+
+[update]
+[update.curseforge]
+file-id = 3369068
+project-id = 461885

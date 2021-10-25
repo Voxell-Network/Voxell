@@ -1,0 +1,13 @@
+name = "More dumb items (MDI)"
+filename = "mdi-4.0.3-ALPHA-FABRIC.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3485/198/mdi-4.0.3-ALPHA-FABRIC.jar"
+hash-format = "murmur2"
+hash = "2495366288"
+
+[update]
+[update.curseforge]
+file-id = 3485198
+project-id = 362778

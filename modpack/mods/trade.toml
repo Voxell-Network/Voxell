@@ -1,0 +1,13 @@
+name = "Trade (Fabric)"
+filename = "trade-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3405/29/trade-1.2.1.jar"
+hash-format = "murmur2"
+hash = "2497224"
+
+[update]
+[update.curseforge]
+file-id = 3405029
+project-id = 270204

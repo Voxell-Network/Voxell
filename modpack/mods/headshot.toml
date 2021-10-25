@@ -1,0 +1,13 @@
+name = "Headshot"
+filename = "headshot-1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3110/121/headshot-1.0.6.jar"
+hash-format = "murmur2"
+hash = "2363907375"
+
+[update]
+[update.curseforge]
+file-id = 3110121
+project-id = 414853

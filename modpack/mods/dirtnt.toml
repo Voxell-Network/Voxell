@@ -1,0 +1,13 @@
+name = "DirTNT"
+filename = "DirTNT-1.1.1-1.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3502/429/DirTNT-1.1.1-1.17.jar"
+hash-format = "murmur2"
+hash = "2560610053"
+
+[update]
+[update.curseforge]
+file-id = 3502429
+project-id = 506847

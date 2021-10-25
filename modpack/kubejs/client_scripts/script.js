@@ -1,6 +1,6 @@
 // priority: 0
 
-const modpack_version = "vp103";
+const modpack_version = "vp104";
 
 console.info('[Voxell] Resource loaded')
 

@@ -1,0 +1,13 @@
+name = "Realistic Bakery Products [Fabric]"
+filename = "realistic-bakery-products-1.2.1v1.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3381/976/realistic-bakery-products-1.2.1v1.17.jar"
+hash-format = "murmur2"
+hash = "2171526066"
+
+[update]
+[update.curseforge]
+file-id = 3381976
+project-id = 406481

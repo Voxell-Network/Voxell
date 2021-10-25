@@ -1,0 +1,13 @@
+name = "Compact TNT"
+filename = "Compact-TNT-Mod-1.6.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3453/110/Compact-TNT-Mod-1.6.1.jar"
+hash-format = "murmur2"
+hash = "193855900"
+
+[update]
+[update.curseforge]
+file-id = 3453110
+project-id = 434408

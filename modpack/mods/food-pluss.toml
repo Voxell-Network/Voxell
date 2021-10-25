@@ -1,0 +1,13 @@
+name = "Food+ [Fabric]"
+filename = "Food-plus-1.3.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3491/856/Food-plus-1.3.1.jar"
+hash-format = "murmur2"
+hash = "2182251825"
+
+[update]
+[update.curseforge]
+file-id = 3491856
+project-id = 517224

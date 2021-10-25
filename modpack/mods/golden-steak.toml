@@ -1,0 +1,13 @@
+name = "Golden Steak [Forge / Fabric]"
+filename = "goldensteak-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3424/248/goldensteak-1.0.5.jar"
+hash-format = "murmur2"
+hash = "1754870221"
+
+[update]
+[update.curseforge]
+file-id = 3424248
+project-id = 431279

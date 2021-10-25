@@ -1,0 +1,13 @@
+name = "Milk Plus"
+filename = "milk_plus-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3479/696/milk_plus-1.2.1.jar"
+hash-format = "murmur2"
+hash = "2661247398"
+
+[update]
+[update.curseforge]
+file-id = 3479696
+project-id = 473632

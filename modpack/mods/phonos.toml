@@ -1,0 +1,13 @@
+name = "Phonos"
+filename = "phonos-0.1.2+1.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3391/467/phonos-0.1.2+1.17.jar"
+hash-format = "murmur2"
+hash = "267275170"
+
+[update]
+[update.curseforge]
+file-id = 3391467
+project-id = 417003

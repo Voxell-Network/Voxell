@@ -1,0 +1,13 @@
+name = "Snow Pig [Fabric]"
+filename = "Snow_Pig-fabric-1.17.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3452/191/Snow_Pig-fabric-1.17.1-1.0.0.jar"
+hash-format = "murmur2"
+hash = "415494550"
+
+[update]
+[update.curseforge]
+file-id = 3452191
+project-id = 469594

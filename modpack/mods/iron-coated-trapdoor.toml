@@ -1,0 +1,13 @@
+name = "Iron Coated Trapdoor"
+filename = "iron_coated_trapdoor-1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3419/507/iron_coated_trapdoor-1.1.jar"
+hash-format = "murmur2"
+hash = "3606372476"
+
+[update]
+[update.curseforge]
+file-id = 3419507
+project-id = 478462

@@ -1,0 +1,13 @@
+name = "Notchify"
+filename = "notchify-0.4.1-noconfigmenu.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3346/344/notchify-0.4.1-noconfigmenu.jar"
+hash-format = "murmur2"
+hash = "1529156665"
+
+[update]
+[update.curseforge]
+file-id = 3346344
+project-id = 372684

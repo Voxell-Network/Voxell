@@ -1,0 +1,13 @@
+name = "Smelting Touch"
+filename = "autosmeltenchant-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3275/189/autosmeltenchant-1.1.0.jar"
+hash-format = "murmur2"
+hash = "564227912"
+
+[update]
+[update.curseforge]
+file-id = 3275189
+project-id = 470405

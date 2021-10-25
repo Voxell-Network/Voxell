@@ -1,0 +1,13 @@
+name = "Apples & Carrots"
+filename = "apples-carrots-1.21.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3501/840/apples-carrots-1.21.jar"
+hash-format = "murmur2"
+hash = "691983449"
+
+[update]
+[update.curseforge]
+file-id = 3501840
+project-id = 518090
