@@ -465,10 +465,6 @@ file = "kubejs/server_scripts/script.js"
 hash = "260fdff35fde2bf9c4d3275255970c826137a1add468540f18a02214a4dfb8c0"
 
 [[files]]
-file = "kubejs/server_scripts/verify_modpack.js"
-hash = "f09ee02d3c20476ce7b17145cf2c2ccec4127819704e9ed3dd12ba93837ba9d3"
-
-[[files]]
 file = "kubejs/startup_scripts/script.js"
 hash = "91ece1d3ad1f68c8fc258ea82ee733773faffcb71116ecb21f9e615c42c13567"
 
@@ -1173,11 +1169,6 @@ hash = "538d678189f806bead348264f991af1e27edd63d6a56ebb684e6c725ae5efc12"
 metafile = true
 
 [[files]]
-file = "mods/visual-overhaul.toml"
-hash = "6bbef860022e53e9643651db0cbcdcaf5d84ea7a80de241e465c5e4e6224174b"
-metafile = true
-
-[[files]]
 file = "mods/voidtotem-fabric.toml"
 hash = "764b3cdd3e9a7a9718e252f4f9d3e1dd385281bf82b05f86ceb26e4211ce9ff3"
 metafile = true
@@ -1238,4 +1229,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "f54947b603dc4876b9004da125728e0a4770dd8c5230fce70da50ddf94f82b83"
+hash = "f2be73a9085a309b7a3846d2992b67c0334a62be7ec0ec9f81ae5032f9fca53b"
