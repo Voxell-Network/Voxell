@@ -14,7 +14,7 @@ reducedDebugInfo:false
 snooperEnabled:true
 showSubtitles:false
 touchscreen:false
-fullscreen:false
+fullscreen:true
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -111,8 +111,6 @@ key_Reload Menu | CTRL + ALT + :key.keyboard.r
 key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.r
 key_key.wi_zoom.zoom:key.keyboard.c
 key_key.antighost.reveal:key.keyboard.g
-key_key.backslot.switch_backslot:key.keyboard.g
-key_key.backslot.switch_beltslot:key.keyboard.g
 key_key.charm.openCraftingTable:key.keyboard.v
 key_key.extraalchemy.magnetism_toggle:key.keyboard.n
 key_key.extraalchemy.potion_bag_mode:key.keyboard.k
@@ -124,9 +122,9 @@ key_key.inmis.open_backpack:key.keyboard.b
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
-key_key.modern_industrialization.activate:key.keyboard.v
+key_key.modern_industrialization.activate:key.keyboard.period
 key_snapstone.snap.key:key.keyboard.h
-key_key.trade:key.keyboard.v
+key_key.trade:key.keyboard.apostrophe
 key_key.push_to_talk:key.keyboard.caps.lock
 key_key.whisper:key.keyboard.unknown
 key_key.mute_microphone:key.keyboard.m
@@ -164,7 +162,7 @@ key_gui.xaero_map_zoom_in:key.keyboard.unknown
 key_gui.xaero_map_zoom_out:key.keyboard.unknown
 key_gui.xaero_quick_confirm:key.keyboard.right.shift
 soundCategory_master:1.0
-soundCategory_music:1.0
+soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
