@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "Voxell Pack-vp104.zip"
-hash = "0d7c904cbd3ca3a582829819f59b32ef498ce524f08ef3525b005de569255149"
-
-[[files]]
 file = "config/GiveMeHats/config.acfg"
 hash = "679e6770ab4867ec67bb31b1fe67bda510be71e7c391f49f0417b88468f8116e"
 
