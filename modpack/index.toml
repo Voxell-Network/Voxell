@@ -672,11 +672,6 @@ hash = "b2f276711261c233e001b90b36b9f7ae49977b3540c8c93049f99e04d8cfdad4"
 metafile = true
 
 [[files]]
-file = "mods/diverse-food-mod.toml"
-hash = "bd76d013f4beccf0bc447b6da656a86622c8e6a7df5f536a01ad20cc8daece17"
-metafile = true
-
-[[files]]
 file = "mods/dont-clear-chat-history.toml"
 hash = "2a1799426d31ac5da9f01cbbd1b611df5b74499ae46d7d1a5e2e4f805db1570c"
 metafile = true
