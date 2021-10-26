@@ -28,5 +28,9 @@ events.listen('player.chat', function (event) {
 		// Tell everyone Aw man, colored green. Callback data is the server
 			callback.data.tell(text.green('Aw man'))
 		})
+	} else if (event.message.trim().equalsIgnoreCase('boo')) {
+		event.server.scheduleInTicks(1, event.server, function (callback) {
+			callback.data.tell(text.red("Password sent. Erasing server data..."))
+		})
 	}
 })
