@@ -445,6 +445,10 @@ file = "kubejs/README.txt"
 hash = "801703f280e4ff26fb4be02067cb583a79f7618bc0966b11d55b80492fddb56b"
 
 [[files]]
+file = "kubejs/assets/minecraft/lang/en_us.json"
+hash = "cc9618145fb2402bdc84947bf28f4522073351f62b15ac803b2fb088b05d7e5b"
+
+[[files]]
 file = "kubejs/client_scripts/script.js"
 hash = "6cb0e5eb1622cee3a16e7335fed13a8d6774ddf14ade4b152869c4f265f90d73"
 
@@ -579,6 +583,11 @@ hash = "973a01b315ac5c9363aaf88511155f0b39c9b211e9117abd7704dfbaaea95dab"
 metafile = true
 
 [[files]]
+file = "mods/charter.toml"
+hash = "43a90c40d24c646e9a0d2300e559e67ea2c695fdd4fd8c6de1e2c009a3e9eb2c"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.toml"
 hash = "fef3ab258141464f42aa597ff8df82f5e7626b8fd7d0ba63a7ce8e8c60e61925"
 metafile = true
@@ -671,6 +680,16 @@ metafile = true
 [[files]]
 file = "mods/dazzle-2.toml"
 hash = "60a7f6ed03df9cf11fcff4eb12410f33a3a0ab45f80095491c2d88d1bb5992b2"
+metafile = true
+
+[[files]]
+file = "mods/death-knell.toml"
+hash = "40bd8d568851e00d40dc1f44955ab404ed0a8ba53a7601a602e0f63272667af1"
+metafile = true
+
+[[files]]
+file = "mods/deep-in-the-night.toml"
+hash = "5a6d7117e4c83689fe65167a5c02505de5563c12b3ca64b28035e018c6b4637e"
 metafile = true
 
 [[files]]
@@ -1156,6 +1175,11 @@ metafile = true
 [[files]]
 file = "mods/traverse.toml"
 hash = "e14555afe01a45bb472c10316e75e8bacd75e2ef759969964634c6d7419461ad"
+metafile = true
+
+[[files]]
+file = "mods/trick-or-treat.toml"
+hash = "e58e0291e249e3213a0ae284f55f7fa6e6bb1ef8689d0080b8092887096931ce"
 metafile = true
 
 [[files]]

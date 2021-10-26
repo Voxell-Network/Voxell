@@ -1,0 +1,13 @@
+name = "Deep In The Night"
+filename = "deep-in-the-night-0.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3504/784/deep-in-the-night-0.1.2.jar"
+hash-format = "murmur2"
+hash = "3077732256"
+
+[update]
+[update.curseforge]
+file-id = 3504784
+project-id = 536636

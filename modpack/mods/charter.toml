@@ -1,0 +1,13 @@
+name = "Charter"
+filename = "charter-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3497/11/charter-0.1.0.jar"
+hash-format = "murmur2"
+hash = "896223056"
+
+[update]
+[update.curseforge]
+file-id = 3497011
+project-id = 538646
