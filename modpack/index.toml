@@ -605,7 +605,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective-fabric.toml"
-hash = "bdcc69b07877bb9684c52c2da024ab979d1d8a7595963ad5e89916957a947723"
+hash = "ff4194efd2ff7307a8f5151298f8b8cc0ceed452b811ea039176ff87d1282885"
 metafile = true
 
 [[files]]
@@ -825,7 +825,7 @@ metafile = true
 
 [[files]]
 file = "mods/happiness-is-a-warm-gun.toml"
-hash = "d39a060344dd3da6475209322c1fa66140ef972513e29b1da84eed038d3a2a88"
+hash = "efac5a1cfa580ed6cb76fd700d0a84aba84eefc3af506f0c9ce0db54368e1efe"
 metafile = true
 
 [[files]]
@@ -965,7 +965,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-industrialization.toml"
-hash = "e991025d78866176c1d02be60dc09f417f877b6822ec802353bbc25a258d5f52"
+hash = "7acb73d51c34245c58afab8d1cf782d94bd063ad2de77052d30a0d60a5d74488"
 metafile = true
 
 [[files]]
@@ -1030,7 +1030,7 @@ metafile = true
 
 [[files]]
 file = "mods/oxidized.toml"
-hash = "4c2058ad31a53c021209db48bb726d97b63f3bae357ecbc2b24c89a1bea439b4"
+hash = "5feabf47207ca847e87fe45cf239200dd6bbe7bf2a274cfcc6cc403aecc137c8"
 metafile = true
 
 [[files]]

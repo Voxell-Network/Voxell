@@ -1,13 +1,13 @@
 name = "Oxidized"
-filename = "oxidized-1.4.0.jar"
+filename = "oxidized-1.5.0-alpha.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3453/477/oxidized-1.4.0.jar"
+url = "https://edge.forgecdn.net/files/3504/813/oxidized-1.5.0-alpha.jar"
 hash-format = "murmur2"
-hash = "2707460225"
+hash = "2137554027"
 
 [update]
 [update.curseforge]
-file-id = 3453477
+file-id = 3504813
 project-id = 506426

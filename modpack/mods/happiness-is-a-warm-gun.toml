@@ -1,13 +1,13 @@
 name = "Happiness (is a) Warm Gun"
-filename = "HWGMod-1.17-1.0.21.jar"
+filename = "HWGMod-1.17-1.0.22.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3494/456/HWGMod-1.17-1.0.21.jar"
+url = "https://edge.forgecdn.net/files/3504/751/HWGMod-1.17-1.0.22.jar"
 hash-format = "murmur2"
-hash = "1169679932"
+hash = "1533365068"
 
 [update]
 [update.curseforge]
-file-id = 3494456
+file-id = 3504751
 project-id = 448106
