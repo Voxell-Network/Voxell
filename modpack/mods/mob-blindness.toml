@@ -1,0 +1,13 @@
+name = "Mob Blindness (Fabric)"
+filename = "mobblindness-1.0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3504/916/mobblindness-1.0.1.1.jar"
+hash-format = "murmur2"
+hash = "1761331433"
+
+[update]
+[update.curseforge]
+file-id = 3504916
+project-id = 445568
