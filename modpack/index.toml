@@ -445,6 +445,10 @@ file = "kubejs/README.txt"
 hash = "801703f280e4ff26fb4be02067cb583a79f7618bc0966b11d55b80492fddb56b"
 
 [[files]]
+file = "kubejs/assets/minecraft/lang/en_us.json"
+hash = "cc9618145fb2402bdc84947bf28f4522073351f62b15ac803b2fb088b05d7e5b"
+
+[[files]]
 file = "kubejs/client_scripts/script.js"
 hash = "6cb0e5eb1622cee3a16e7335fed13a8d6774ddf14ade4b152869c4f265f90d73"
 
@@ -462,7 +466,7 @@ hash = "461a714af6a802781191713aebc8d32d1e4c66bb83182059b7b1cee9b741f279"
 
 [[files]]
 file = "kubejs/server_scripts/script.js"
-hash = "260fdff35fde2bf9c4d3275255970c826137a1add468540f18a02214a4dfb8c0"
+hash = "ba130a90b524c79dd73db947ae2e5340185c47acef0a08de643abd316932efc2"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
@@ -579,6 +583,11 @@ hash = "973a01b315ac5c9363aaf88511155f0b39c9b211e9117abd7704dfbaaea95dab"
 metafile = true
 
 [[files]]
+file = "mods/charter.toml"
+hash = "43a90c40d24c646e9a0d2300e559e67ea2c695fdd4fd8c6de1e2c009a3e9eb2c"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.toml"
 hash = "fef3ab258141464f42aa597ff8df82f5e7626b8fd7d0ba63a7ce8e8c60e61925"
 metafile = true
@@ -605,7 +614,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective-fabric.toml"
-hash = "ff4194efd2ff7307a8f5151298f8b8cc0ceed452b811ea039176ff87d1282885"
+hash = "8628460d6545d3ab98871d29c36709098e1d2a588734a5bb5f64919d543190db"
 metafile = true
 
 [[files]]
@@ -659,6 +668,11 @@ hash = "75ab5dc4f4ab880aee6c2f807431dbcb5325676e45c1bae68bb61c90bf3b0955"
 metafile = true
 
 [[files]]
+file = "mods/cyber-permissions.toml"
+hash = "d77cdd2c83ce2fd62669222b5441135580cfaa6b82f370bdf1e48852fb45fc9c"
+metafile = true
+
+[[files]]
 file = "mods/dark-enchanting.toml"
 hash = "74fb700511bb99f9bf050e621b8f8c3d1df01dea399cf6d062599ee03248bc36"
 metafile = true
@@ -671,6 +685,16 @@ metafile = true
 [[files]]
 file = "mods/dazzle-2.toml"
 hash = "60a7f6ed03df9cf11fcff4eb12410f33a3a0ab45f80095491c2d88d1bb5992b2"
+metafile = true
+
+[[files]]
+file = "mods/death-knell.toml"
+hash = "40bd8d568851e00d40dc1f44955ab404ed0a8ba53a7601a602e0f63272667af1"
+metafile = true
+
+[[files]]
+file = "mods/deep-in-the-night.toml"
+hash = "5a6d7117e4c83689fe65167a5c02505de5563c12b3ca64b28035e018c6b4637e"
 metafile = true
 
 [[files]]
@@ -754,6 +778,11 @@ hash = "f5f041b4771f0055485665ef85addaa569fa035ce7a1c4b28d631aacc6c160fe"
 metafile = true
 
 [[files]]
+file = "mods/fabric-essentials.toml"
+hash = "5c727ccfd26d7eb43a05c656687220bb520ab51d49ad5a64b65331b3a443cdbe"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.toml"
 hash = "f946c365b017cdaa064e255a5a81c1665f3ac9526fd1bfa7eaf6c20e14994027"
 metafile = true
@@ -799,6 +828,11 @@ hash = "ab137ffd39ea3a8abefe18adb121124ad96a2108653e8d5ff8b9718df0dda801"
 metafile = true
 
 [[files]]
+file = "mods/full-turtle-armor.toml"
+hash = "d54475d80a28681d605b032ce7b95eae3e8beb0cca616131d75b6a2c7bd17c02"
+metafile = true
+
+[[files]]
 file = "mods/gate-of-babylon.toml"
 hash = "5cea43f065452b0ade30e33f0cc2911a50ce4eafa188088e688828e31d07bc03"
 metafile = true
@@ -821,6 +855,11 @@ metafile = true
 [[files]]
 file = "mods/golden-steak.toml"
 hash = "f78b0c62076ea89606c3245a03c73f34f1705b6f86ca6ad90bd072bd4c0cc383"
+metafile = true
+
+[[files]]
+file = "mods/grims-transportables.toml"
+hash = "55460489becdc49aea5518319aba605dae8549ee5f0a3d33749a3f10ab566f36"
 metafile = true
 
 [[files]]
@@ -851,6 +890,11 @@ metafile = true
 [[files]]
 file = "mods/icarus-fabric.toml"
 hash = "291cfefaffc8a81595320edbb249353c477f7bb65726694e4eb8a032e860fb9b"
+metafile = true
+
+[[files]]
+file = "mods/illuminations.toml"
+hash = "044904392f472809f642dcf262cd0a7a14594f44adc135181c2d46912266667d"
 metafile = true
 
 [[files]]
@@ -964,6 +1008,11 @@ hash = "edcff3d1df893053ee37067a0ac6587bfc696e07bcc294728ae941c7b31372a3"
 metafile = true
 
 [[files]]
+file = "mods/mob-blindness.toml"
+hash = "6e63b86572369beeff08e139c54782ea5806fb3236ca19384668a0156ff1f055"
+metafile = true
+
+[[files]]
 file = "mods/modern-industrialization.toml"
 hash = "7acb73d51c34245c58afab8d1cf782d94bd063ad2de77052d30a0d60a5d74488"
 metafile = true
@@ -1029,6 +1078,11 @@ hash = "9acecab7207a13050148705545b361e14b82da22b6c6b8539cff01201f9a847f"
 metafile = true
 
 [[files]]
+file = "mods/old-swing.toml"
+hash = "70794534c0b3fea31ba97d1df46a2f41eff94b5df1f0dff9625324f3d3cbcec2"
+metafile = true
+
+[[files]]
 file = "mods/oxidized.toml"
 hash = "5feabf47207ca847e87fe45cf239200dd6bbe7bf2a274cfcc6cc403aecc137c8"
 metafile = true
@@ -1044,6 +1098,11 @@ hash = "f3d6753a6ea465c42c8eeaa69c15a33e90b5c16981443a5e014d76fd83ddb0ce"
 metafile = true
 
 [[files]]
+file = "mods/pipe.toml"
+hash = "8fbc593175307c7110b02cfa041205fbcf88c8bc3935044366d6e804805d3549"
+metafile = true
+
+[[files]]
 file = "mods/plant-in-a-jar.toml"
 hash = "550479273695452a393dae4963e41145d8f9144d6910fbd81cbf0dd2ff05f7bb"
 metafile = true
@@ -1051,6 +1110,16 @@ metafile = true
 [[files]]
 file = "mods/plated.toml"
 hash = "41ac052b848562cdb33483efb943d4deee92cbe3cb4e62b16be93e72e79fe232"
+metafile = true
+
+[[files]]
+file = "mods/pling.toml"
+hash = "da7f27b785c95d1cd8c73e59f7ba3ec17d3faf976927fcbd968f20dbc8b08b6d"
+metafile = true
+
+[[files]]
+file = "mods/polymorph-fabric.toml"
+hash = "22fbed36e744ca14a68edd39c8339f76b8ae38b44a03b94380db31a52bb7635d"
 metafile = true
 
 [[files]]
@@ -1156,6 +1225,11 @@ metafile = true
 [[files]]
 file = "mods/traverse.toml"
 hash = "e14555afe01a45bb472c10316e75e8bacd75e2ef759969964634c6d7419461ad"
+metafile = true
+
+[[files]]
+file = "mods/trick-or-treat.toml"
+hash = "e58e0291e249e3213a0ae284f55f7fa6e6bb1ef8689d0080b8092887096931ce"
 metafile = true
 
 [[files]]

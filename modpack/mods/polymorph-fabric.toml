@@ -1,0 +1,13 @@
+name = "Polymorph (Fabric)"
+filename = "polymorph-fabric-0.0.14-1.17.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3476/126/polymorph-fabric-0.0.14-1.17.1.jar"
+hash-format = "murmur2"
+hash = "1860254740"
+
+[update]
+[update.curseforge]
+file-id = 3476126
+project-id = 397434
