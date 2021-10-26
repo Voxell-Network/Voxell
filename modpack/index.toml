@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "Voxell Pack-vp104.zip"
+hash = "b3f534af5350b45d781f356f1ffef5d0483a1c1b300ffbe1fcf6ce335e8bb9a5"
+
+[[files]]
 file = "config/GiveMeHats/config.acfg"
 hash = "679e6770ab4867ec67bb31b1fe67bda510be71e7c391f49f0417b88468f8116e"
 
@@ -855,11 +859,6 @@ metafile = true
 [[files]]
 file = "mods/golden-steak.toml"
 hash = "f78b0c62076ea89606c3245a03c73f34f1705b6f86ca6ad90bd072bd4c0cc383"
-metafile = true
-
-[[files]]
-file = "mods/grims-transportables.toml"
-hash = "55460489becdc49aea5518319aba605dae8549ee5f0a3d33749a3f10ab566f36"
 metafile = true
 
 [[files]]
