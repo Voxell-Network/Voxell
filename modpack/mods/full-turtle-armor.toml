@@ -1,0 +1,13 @@
+name = "Full Turtle Armor"
+filename = "full-turtle-armor-1.0.1-FABRIC-MC-1.17.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3505/127/full-turtle-armor-1.0.1-FABRIC-MC-1.17.jar"
+hash-format = "murmur2"
+hash = "1309973682"
+
+[update]
+[update.curseforge]
+file-id = 3505127
+project-id = 507470

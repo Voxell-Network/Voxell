@@ -1,0 +1,13 @@
+name = "Old Swing"
+filename = "OldSwing-Fabric-1.17.1-3.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3504/871/OldSwing-Fabric-1.17.1-3.1.0.jar"
+hash-format = "murmur2"
+hash = "1720185852"
+
+[update]
+[update.curseforge]
+file-id = 3504871
+project-id = 403590

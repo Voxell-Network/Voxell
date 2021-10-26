@@ -1,0 +1,13 @@
+name = "Bssentials - Essentials for Fabric"
+filename = "Bssentials-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3505/85/Bssentials-Fabric.jar"
+hash-format = "murmur2"
+hash = "1169201060"
+
+[update]
+[update.curseforge]
+file-id = 3505085
+project-id = 413792
