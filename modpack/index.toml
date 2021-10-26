@@ -583,11 +583,6 @@ hash = "973a01b315ac5c9363aaf88511155f0b39c9b211e9117abd7704dfbaaea95dab"
 metafile = true
 
 [[files]]
-file = "mods/charter.toml"
-hash = "43a90c40d24c646e9a0d2300e559e67ea2c695fdd4fd8c6de1e2c009a3e9eb2c"
-metafile = true
-
-[[files]]
 file = "mods/chat-heads.toml"
 hash = "fef3ab258141464f42aa597ff8df82f5e7626b8fd7d0ba63a7ce8e8c60e61925"
 metafile = true
