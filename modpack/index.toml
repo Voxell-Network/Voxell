@@ -165,22 +165,6 @@ file = "config/dashloader.yaml"
 hash = "0a20d11996765aa573d14ab7ecbadb485ceb9fb46cb8bbc0e5aaafadae553dcb"
 
 [[files]]
-file = "config/defaultsettings/Default/keys.txt"
-hash = "546478bbc169dac41503e53e137dd09f8f2e4b85e49fdd0e10b0d10b832d0e2d"
-
-[[files]]
-file = "config/defaultsettings/Default/options.txt"
-hash = "bf2f66b18fc66465df3aea6fd2f36b62f43741d2c394b3b3b7f2781a87ab69d0"
-
-[[files]]
-file = "config/defaultsettings/Default/servers.dat"
-hash = "92a81afe7c708088e768b9346beaa51b386fb14009a631ec9e273318521f72c8"
-
-[[files]]
-file = "config/defaultsettings/sharedConfigs/ignore.json"
-hash = "4087cbe05cdbc5aa55b8ea8993a05df69efd1f3af76d59d1f8ab5f1c8a3bf706"
-
-[[files]]
 file = "config/drippyloadingscreen/config.cfg"
 hash = "eb0cc9dd4f40ed36b39acdd875dbdac476051190f68847a532ecb0d935ebf262"
 
@@ -717,11 +701,6 @@ metafile = true
 [[files]]
 file = "mods/deep-in-the-night.toml"
 hash = "5a6d7117e4c83689fe65167a5c02505de5563c12b3ca64b28035e018c6b4637e"
-metafile = true
-
-[[files]]
-file = "mods/defaultsettings-fabric.toml"
-hash = "72f7456a4ed58f79be2f8b68d10d1d0eb1742ad15b53f841c3414010b7405d1d"
 metafile = true
 
 [[files]]
@@ -1366,6 +1345,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.toml"
 hash = "6903dcb4475c63c023bd832d5f70d77b1478e96c763325e58e28d873e7e8df08"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.toml"
+hash = "25ba1f543d497256054d05bbbab6e0c4f5aa9796cd53191d4b381297fd98c81d"
 metafile = true
 
 [[files]]
