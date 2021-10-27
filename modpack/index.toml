@@ -453,10 +453,6 @@ file = "config/xaeroworldmap.txt"
 hash = "6ce9546cec9088df30ca31f63cf2bf709248e7eac14f03f21bdd4c2ea093cd44"
 
 [[files]]
-file = "config/yosbr/options.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "kubejs/README.txt"
 hash = "801703f280e4ff26fb4be02067cb583a79f7618bc0966b11d55b80492fddb56b"
 
@@ -1370,11 +1366,6 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.toml"
 hash = "6903dcb4475c63c023bd832d5f70d77b1478e96c763325e58e28d873e7e8df08"
-metafile = true
-
-[[files]]
-file = "mods/yosbr.toml"
-hash = "25ba1f543d497256054d05bbbab6e0c4f5aa9796cd53191d4b381297fd98c81d"
 metafile = true
 
 [[files]]
