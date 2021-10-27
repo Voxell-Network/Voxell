@@ -603,11 +603,6 @@ hash = "7c621441eab916a773972837979c272b9a1ff5b144a8a2b0c2ea0bdc0ea3efca"
 metafile = true
 
 [[files]]
-file = "mods/chat.toml"
-hash = "30248e4820d802ab57bad729db650c91740c8166e69af3a533945fb2a77a786b"
-metafile = true
-
-[[files]]
 file = "mods/cloth-api.toml"
 hash = "3c329350a1ade79fa329aa932188659dc361d4917a0fcb07159b5eeb240f97f2"
 metafile = true
@@ -1180,11 +1175,6 @@ metafile = true
 [[files]]
 file = "mods/slight-gui-modifications.toml"
 hash = "26d05820157b33fea6fe46aec240a4477a6c24657ca6687e0fbcd44b17853abb"
-metafile = true
-
-[[files]]
-file = "mods/slimeologymc.toml"
-hash = "eeb4467b6d35041e8b58c224e46c187b553c2009477ffa1c7e55a91029f82bc3"
 metafile = true
 
 [[files]]
