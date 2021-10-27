@@ -488,6 +488,11 @@ hash = "af2dce459e41ad7c5fdbbdfe9bd0a864e8bff7df878ea1d95975795f67614886"
 metafile = true
 
 [[files]]
+file = "mods/advancements-debug.toml"
+hash = "e3df2ff7e28f6d2ead50d4358e9f7223cd5ff1b604431d38fa8cc2eb3a8f7ac4"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.toml"
 hash = "fe9a75adb97bf68d001df10f49ce40ee9c5d284499c0d75d52606f9a950938cd"
 metafile = true
@@ -530,6 +535,11 @@ metafile = true
 [[files]]
 file = "mods/auto-smelt-enchantment.toml"
 hash = "a8f53955daad6ff134563d92cb0d828cb6c5e9cdc80627f5d342b2aa6f998513"
+metafile = true
+
+[[files]]
+file = "mods/auto-third-person.toml"
+hash = "1ad9719c4f19db2838c23995630e533b293c5a29da74eaf051c0afda4a9e078f"
 metafile = true
 
 [[files]]
@@ -938,6 +948,11 @@ hash = "6b992672a592f07eb13aa115f5ad973d2aca8ffd1f5b190ed39d8a8c762715db"
 metafile = true
 
 [[files]]
+file = "mods/krypton.toml"
+hash = "93ab291ceb77341b5c9150287dfc3909438220ead7d0609545a44f21b09264ce"
+metafile = true
+
+[[files]]
 file = "mods/kubejs-fabric.toml"
 hash = "dffffeb51199d4f3e93a1bf070937cd8b03e5a51391fe8167d31bfcceb7545e5"
 metafile = true
@@ -995,6 +1010,11 @@ metafile = true
 [[files]]
 file = "mods/milk-plus.toml"
 hash = "c87bd77ef837e6d1392c8075f45c9e7e8d9e794ba753eae2802abec6ec1e0412"
+metafile = true
+
+[[files]]
+file = "mods/mixintrace.toml"
+hash = "2a80201f7ad3cc0c4248404d90c31ce85d919972188e3ca1b5b32729c073a8c8"
 metafile = true
 
 [[files]]
@@ -1143,6 +1163,11 @@ hash = "2328c6eb415a875ce41397571ccba97c15e306b8036bb6fa4cc6774962384c4f"
 metafile = true
 
 [[files]]
+file = "mods/screenshot-to-clipboard-fabric.toml"
+hash = "017d688cc27ebc8a31cea24da8e5c439d621f48a440ad938c9075888af11193e"
+metafile = true
+
+[[files]]
 file = "mods/simple-shelves.toml"
 hash = "bf076c1e24737c45d9c1941b90d19d51a130124dbb70197223c6c569ed5aff86"
 metafile = true
@@ -1190,6 +1215,11 @@ metafile = true
 [[files]]
 file = "mods/sticky-hopper.toml"
 hash = "b7788a736bdf0152b8cd7c1282fd1a1b3c30e0462b53bf5d7296cca716161d16"
+metafile = true
+
+[[files]]
+file = "mods/straw-dummy.toml"
+hash = "8ab3882eef113fba08338d73592d42267adb4d5d9e24cfb6a82f7feccc6c3640"
 metafile = true
 
 [[files]]

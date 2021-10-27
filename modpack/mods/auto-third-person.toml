@@ -1,0 +1,13 @@
+name = "Auto Third Person"
+filename = "auto_third_person-1.17-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3344/538/auto_third_person-1.17-1.1.0.jar"
+hash-format = "murmur2"
+hash = "4095850926"
+
+[update]
+[update.curseforge]
+file-id = 3344538
+project-id = 297818
