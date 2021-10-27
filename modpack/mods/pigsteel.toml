@@ -1,0 +1,13 @@
+name = "Pigsteel [Fabric]"
+filename = "pigsteel-1.6.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3408/135/pigsteel-1.6.6.jar"
+hash-format = "murmur2"
+hash = "2481796965"
+
+[update]
+[update.curseforge]
+file-id = 3408135
+project-id = 448941

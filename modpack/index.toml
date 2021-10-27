@@ -165,6 +165,22 @@ file = "config/dashloader.yaml"
 hash = "0a20d11996765aa573d14ab7ecbadb485ceb9fb46cb8bbc0e5aaafadae553dcb"
 
 [[files]]
+file = "config/defaultsettings/Default/keys.txt"
+hash = "546478bbc169dac41503e53e137dd09f8f2e4b85e49fdd0e10b0d10b832d0e2d"
+
+[[files]]
+file = "config/defaultsettings/Default/options.txt"
+hash = "bf2f66b18fc66465df3aea6fd2f36b62f43741d2c394b3b3b7f2781a87ab69d0"
+
+[[files]]
+file = "config/defaultsettings/Default/servers.dat"
+hash = "92a81afe7c708088e768b9346beaa51b386fb14009a631ec9e273318521f72c8"
+
+[[files]]
+file = "config/defaultsettings/sharedConfigs/ignore.json"
+hash = "4087cbe05cdbc5aa55b8ea8993a05df69efd1f3af76d59d1f8ab5f1c8a3bf706"
+
+[[files]]
 file = "config/drippyloadingscreen/config.cfg"
 hash = "eb0cc9dd4f40ed36b39acdd875dbdac476051190f68847a532ecb0d935ebf262"
 
@@ -498,6 +514,11 @@ hash = "fe9a75adb97bf68d001df10f49ce40ee9c5d284499c0d75d52606f9a950938cd"
 metafile = true
 
 [[files]]
+file = "mods/amecs.toml"
+hash = "f62a4fcb000b804ea1330cc4a694d5591705e71fd7aa4fa2daf106fe9faf137b"
+metafile = true
+
+[[files]]
 file = "mods/antighost.toml"
 hash = "e9cca5bbca986eba920e6e5ff1c81f81def15590fde9810a956f6b8c75393aae"
 metafile = true
@@ -570,6 +591,11 @@ metafile = true
 [[files]]
 file = "mods/big-beacons.toml"
 hash = "88d6a35413da39a5040ec68cd7f207b688c921363d5f5ea16bd2b0e3b7eefe0d"
+metafile = true
+
+[[files]]
+file = "mods/blockus.toml"
+hash = "89797c4337b6c3c8063bed25b75bd7cd8e3763b79a754f15c619da9054caf0d3"
 metafile = true
 
 [[files]]
@@ -698,6 +724,11 @@ hash = "5a6d7117e4c83689fe65167a5c02505de5563c12b3ca64b28035e018c6b4637e"
 metafile = true
 
 [[files]]
+file = "mods/defaultsettings-fabric.toml"
+hash = "72f7456a4ed58f79be2f8b68d10d1d0eb1742ad15b53f841c3414010b7405d1d"
+metafile = true
+
+[[files]]
 file = "mods/dirtnt.toml"
 hash = "b2f276711261c233e001b90b36b9f7ae49977b3540c8c93049f99e04d8cfdad4"
 metafile = true
@@ -730,6 +761,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.toml"
 hash = "a3c3d4f35494103eb96d62ad1e63932d4407c90b7878fdb1d2d1f75e26da1ce4"
+metafile = true
+
+[[files]]
+file = "mods/earth2java-fabric.toml"
+hash = "161dcfbdabee886addb8322e1c8ba4cbc5a24b5d95f4cbea855dd43b15902dc1"
 metafile = true
 
 [[files]]
@@ -1108,6 +1144,11 @@ hash = "f3d6753a6ea465c42c8eeaa69c15a33e90b5c16981443a5e014d76fd83ddb0ce"
 metafile = true
 
 [[files]]
+file = "mods/pigsteel.toml"
+hash = "e87a32283a974b49055ffef4077a9ba8361b6af319acff48527e1d7ceae524f0"
+metafile = true
+
+[[files]]
 file = "mods/pipe.toml"
 hash = "8fbc593175307c7110b02cfa041205fbcf88c8bc3935044366d6e804805d3549"
 metafile = true
@@ -1213,6 +1254,11 @@ hash = "8ab3882eef113fba08338d73592d42267adb4d5d9e24cfb6a82f7feccc6c3640"
 metafile = true
 
 [[files]]
+file = "mods/sulfur-and-potassium-make-more-gunpowder.toml"
+hash = "6807e501d6606889a578ee5b23b20a44ce0a63340dee22878014674cf9fad320"
+metafile = true
+
+[[files]]
 file = "mods/tacocraft-fabric.toml"
 hash = "b7f902c6188825dc0125ac949a1f61f031192a6dc90a757dd94ee56f73830f39"
 metafile = true
@@ -1230,6 +1276,11 @@ metafile = true
 [[files]]
 file = "mods/the-graveyard-fabric.toml"
 hash = "dfe3191a0b9bdb762889b2ce710d801210402077858f53510d2d1978f11f4a00"
+metafile = true
+
+[[files]]
+file = "mods/this-rocks.toml"
+hash = "8ba31737f944c2b354b64ef4deade564ecd8ed245fc37a5630f68f04829c295f"
 metafile = true
 
 [[files]]

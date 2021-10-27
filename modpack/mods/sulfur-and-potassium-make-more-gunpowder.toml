@@ -1,0 +1,13 @@
+name = "Sulfur And Potassium - More Gunpowder"
+filename = "branders-sulfurpotassiummod-1.17-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3361/985/branders-sulfurpotassiummod-1.17-1.1.1.jar"
+hash-format = "murmur2"
+hash = "907334808"
+
+[update]
+[update.curseforge]
+file-id = 3361985
+project-id = 295506
