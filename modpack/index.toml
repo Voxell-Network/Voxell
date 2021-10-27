@@ -437,6 +437,10 @@ file = "config/xaeroworldmap.txt"
 hash = "6ce9546cec9088df30ca31f63cf2bf709248e7eac14f03f21bdd4c2ea093cd44"
 
 [[files]]
+file = "config/yosbr/options.txt"
+hash = "4454abd57e7e3086f8141b538401c58493f2c7b05ea91126bdbd33f793f29e20"
+
+[[files]]
 file = "kubejs/README.txt"
 hash = "801703f280e4ff26fb4be02067cb583a79f7618bc0966b11d55b80492fddb56b"
 
