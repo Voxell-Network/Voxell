@@ -1335,7 +1335,3 @@ metafile = true
 file = "mods/yungs-better-mineshafts-fabric.toml"
 hash = "fbb4cd315e0e514b5dae7614c18463ab6abc100872c345c4af2e91647d16afa0"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "f2be73a9085a309b7a3846d2992b67c0334a62be7ec0ec9f81ae5032f9fca53b"
