@@ -1,13 +1,13 @@
 name = "Death Knell"
-filename = "DeathKnell-fabric-1.17.1-1.0.0.jar"
+filename = "DeathKnell-fabric-1.17.1-1.0.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3497/854/DeathKnell-fabric-1.17.1-1.0.0.jar"
+url = "https://edge.forgecdn.net/files/3505/882/DeathKnell-fabric-1.17.1-1.0.1.jar"
 hash-format = "murmur2"
-hash = "3100793236"
+hash = "429460983"
 
 [update]
 [update.curseforge]
-file-id = 3497854
+file-id = 3505882
 project-id = 538316

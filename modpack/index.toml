@@ -619,7 +619,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective-fabric.toml"
-hash = "8628460d6545d3ab98871d29c36709098e1d2a588734a5bb5f64919d543190db"
+hash = "722c472669d599ad6b6f0256763b2ebb77c7eaa9a6f88fe7e03f67bd8d4d7385"
 metafile = true
 
 [[files]]
@@ -694,7 +694,7 @@ metafile = true
 
 [[files]]
 file = "mods/death-knell.toml"
-hash = "40bd8d568851e00d40dc1f44955ab404ed0a8ba53a7601a602e0f63272667af1"
+hash = "355a55788ad90cf6ea70e2f9f5f21996ea6b10f591abef1e3850c01c828841d8"
 metafile = true
 
 [[files]]
