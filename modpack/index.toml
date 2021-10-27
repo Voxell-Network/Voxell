@@ -608,11 +608,6 @@ hash = "fef3ab258141464f42aa597ff8df82f5e7626b8fd7d0ba63a7ce8e8c60e61925"
 metafile = true
 
 [[files]]
-file = "mods/chat-sounds.toml"
-hash = "7c621441eab916a773972837979c272b9a1ff5b144a8a2b0c2ea0bdc0ea3efca"
-metafile = true
-
-[[files]]
 file = "mods/cloth-api.toml"
 hash = "3c329350a1ade79fa329aa932188659dc361d4917a0fcb07159b5eeb240f97f2"
 metafile = true
