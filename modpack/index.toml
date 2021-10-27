@@ -1098,6 +1098,11 @@ hash = "c56e32ff1f2936c838d18c422b814ecf63f9603dd78c8a90a5a4963b46e1da22"
 metafile = true
 
 [[files]]
+file = "mods/notifmod.toml"
+hash = "2671452f9bc96052f7290fa3c030fcfe5911654031e883b2cd6f57308d1eb200"
+metafile = true
+
+[[files]]
 file = "mods/obsidian-container-experience-container-addon.toml"
 hash = "9acecab7207a13050148705545b361e14b82da22b6c6b8539cff01201f9a847f"
 metafile = true
