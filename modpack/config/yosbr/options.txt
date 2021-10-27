@@ -118,12 +118,12 @@ key_key.amecs.toggle_right_sleeve:key.keyboard.unknown
 key_key.amecs.toggle_left_pants_leg:key.keyboard.unknown
 key_key.amecs.toggle_right_pants_leg:key.keyboard.unknown
 key_key.amecs.toggle_hat:key.keyboard.unknown
-key_key.antighost.reveal:key.keyboard.g
+key_key.antighost.reveal:key.keyboard.unknown
 key_key.charm.openCraftingTable:key.keyboard.r
 key_key.extraalchemy.magnetism_toggle:key.keyboard.n
 key_key.extraalchemy.potion_bag_mode:key.keyboard.k
 key_key.extraalchemy.toggle_extra_inv_rings:key.keyboard.y
-key_key.hwg.reload:key.keyboard.r
+key_key.hwg.reload:key.keyboard.unknown
 key_key.hwg.scope:key.keyboard.left.alt
 key_key.craftpresence.config_keycode.name:key.keyboard.grave.accent
 key_key.indrev.modular:key.keyboard.unknown
