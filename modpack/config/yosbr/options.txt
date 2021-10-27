@@ -130,9 +130,9 @@ key_key.indrev.modular:key.keyboard.unknown
 key_key.inmis.open_backpack:key.keyboard.b
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
-key_iris.keybind.shaderPackSelection:key.keyboard.o
+key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_key.modern_industrialization.activate:key.keyboard.period
-key_key.oldswing.open_config:key.keyboard.o
+key_key.oldswing.open_config:key.keyboard.unknown
 key_snapstone.snap.key:key.keyboard.h
 key_key.trade:key.keyboard.apostrophe
 key_key.push_to_talk:key.keyboard.caps.lock
