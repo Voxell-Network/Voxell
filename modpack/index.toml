@@ -1168,6 +1168,11 @@ hash = "ddae311d3ff880a840316b0ffc9762f674232e7ce08d1b1cbdec7b634a5d5f30"
 metafile = true
 
 [[files]]
+file = "mods/refined-storage.toml"
+hash = "9121001421322c6a64ae8105e3401ea0fe7d8a482f8ec95965171fad853ec870"
+metafile = true
+
+[[files]]
 file = "mods/rhino.toml"
 hash = "3997dede1f8615f673a9c13d0460ae507d80b9849a3e970618061023adaa056e"
 metafile = true
