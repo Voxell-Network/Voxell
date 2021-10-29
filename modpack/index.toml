@@ -688,6 +688,11 @@ hash = "74fb700511bb99f9bf050e621b8f8c3d1df01dea399cf6d062599ee03248bc36"
 metafile = true
 
 [[files]]
+file = "mods/dark-paintings.toml"
+hash = "65fd37c8c4af93dc381cf118bed2a13d6964a8b1283d85e859a22d490c8d3c55"
+metafile = true
+
+[[files]]
 file = "mods/dawn.toml"
 hash = "d73ea53110558b412982f5176c674aee354671a58a5b254907412d0afa0adf1e"
 metafile = true
