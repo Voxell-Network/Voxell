@@ -583,6 +583,11 @@ hash = "89797c4337b6c3c8063bed25b75bd7cd8e3763b79a754f15c619da9054caf0d3"
 metafile = true
 
 [[files]]
+file = "mods/blur-fabric.toml"
+hash = "5bd85756d1785d85844619f9f7f764545172c5efebd5b61011cce7faa4e7389c"
+metafile = true
+
+[[files]]
 file = "mods/boathud.toml"
 hash = "b2e77b4ba477703dcdcbc10022feef1d13cefe3aba5cf6849997c49708edcc7e"
 metafile = true
